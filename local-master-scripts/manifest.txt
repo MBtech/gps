@@ -1,0 +1,2 @@
+Class-Path: libs/asm-3.3.1.jar libs/guava-r08.jar libs/objenesis-1.2.jar libs/cglib-2.2.jar libs/commons-cli-1.2.jar libs/jline-0.9.94.jar libs/log4j-1.2.15.jar libs/commons-logging-1.1.1.jar libs/hadoop-core-0.20.203.0.jar libs/commons-collections-3.2.1.jar libs/commons-lang-2.4.jar libs/commons-configuration-1.6.jar libs/tools.jar libs/mina-core-2.0.3.jar libs/mina-example-2.0.3.jar libs/slf4j-api-1.6.1.jar libs/colt.jar libs/concurrent.jar
+Main-Class: gps.node.GPSNodeRunner
